@@ -1,0 +1,31 @@
+.flex-container {
+  background: lightblue;
+  padding: 32px;
+  border: 5px solid blue;
+  gap: 16px;
+  display: flex;
+  height: 9rem;
+}
+
+.item {
+  background: peachpuff;
+  border: 5px solid salmon;
+  flex: 1;
+  padding: 4px;
+}
+
+.display-flex {
+  display: flex;
+}
+
+
+.item-2 {
+  background-color: pink;
+  border: 5px solid red;
+  flex: 1;
+  padding: 10px;
+}
+
+.second-item {
+  padding: 10px;
+}
